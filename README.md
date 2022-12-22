@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Samrat Pudasaini
+- 👋 Hi, I’m Samrat Pudasaini from Kathmandu, Nepal
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Django Rest Framework
 - 📫 You can reach me at [linkedin](https://www.linkedin.com/in/samratiam/)
